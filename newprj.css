@@ -267,7 +267,17 @@ body {
         align-items: center;
     }
 }
+@media screen and (max-width: 420px){
 
+    .noname{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        font-family: "Brush Script MT", Cursive;
+        font-size: 4.9em;
+        color: #FFF;
+        margin-top: 1%;   
+    }
 
 
 @media screen and (max-width: 375px){
